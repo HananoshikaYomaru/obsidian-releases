@@ -8587,5 +8587,12 @@
     "author": "Alan Grainger",
     "description": "Share a note publicly with full styling. Data is stored encrypted on the server and only you have the key.",
     "repo": "alangrainger/obsidian-share"
-  }
+  }, 
+{
+    "id": "share-note",
+    "name": "Share Note",
+    "author": "Alan Grainger",
+    "description": "Share a note publicly with full styling. Data is stored encrypted on the server and only you have the key.",
+    "repo": "alangrainger/obsidian-share"
+  }, 
 ]
